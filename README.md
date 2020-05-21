@@ -8,7 +8,7 @@
 
 This base script intent to crawl some data from foody site.
 
-Feature as requested:
+Feature will implement later as request:
 * Concurrent.
 * Site-wide crawling.
 * Reliable storing to DB.
