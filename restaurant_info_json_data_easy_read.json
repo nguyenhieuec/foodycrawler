@@ -1,0 +1,116 @@
+{
+    "restaurant_info": [
+        {
+            "restaurant_name": "Chảo Restaurant - Bánh Mì Chảo",
+            "restaurant_add": "31 Trần Quang Diệu, P. 14, Quận 3, TP. HCM",
+            "restaurant_open_time": "",
+            "restaurant_cost_range": "25,000 - 70,000",
+            "restaurant_number_rating": "10+",
+            "promotion_info": "Freeship tới 5km: Nhập mã \"FREESHIP\"",
+            "menu": [
+                {
+                    "food_item_name": "Thập cẩm bò",
+                    "food_item_desc": "Gồm bánh mì, nước ngọt, khoai tây chiên",
+                    "food_item_price": "82,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/75d4e765-400a-44b4-b3f9-8347c432d93c.jpg"
+                },
+                {
+                    "food_item_name": "Chảo thịt bò",
+                    "food_item_desc": "Gồm bánh mì, nước ngọt",
+                    "food_item_price": "72,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/e4a23d96-f03f-43cd-b7ba-4a408092ac4b.jpg"
+                },
+                {
+                    "food_item_name": "Thập cẩm lúc lắc",
+                    "food_item_desc": "Gồm bánh mì, nước ngọt, khoai tây chiên",
+                    "food_item_price": "92,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/9dcd849b-d498-47da-a449-535772b46dcc.jpg"
+                },
+                {
+                    "food_item_name": "Mì Ý bò lúc lắc",
+                    "food_item_desc": null,
+                    "food_item_price": "83,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/fda5ba87-1571-4913-8914-8cb0a31ee5d4.jpg"
+                },
+                {
+                    "food_item_name": "Cơm bò xào nấm",
+                    "food_item_desc": "Gồm canh, nước ngọt",
+                    "food_item_price": "76,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/0ff34c7c-bbfe-4604-996d-7d499d16e9f6.jpg"
+                },
+                {
+                    "food_item_name": "Cơm bò xào hành tây",
+                    "food_item_desc": "Gồm canh, nước ngọt",
+                    "food_item_price": "72,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/2ac671e1-7d30-4e0c-baa4-3d583dcf7b77.jpg"
+                },
+                {
+                    "food_item_name": "Cơm bò lúc lắc",
+                    "food_item_desc": "Gồm canh, nước ngọt",
+                    "food_item_price": "83,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/abc4395a-0570-41ca-a8ef-96e8b1680761.jpg"
+                },
+                {
+                    "food_item_name": "Cơm nấm xào chay",
+                    "food_item_desc": "Gồm nước ngọt",
+                    "food_item_price": "69,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/1175de50-667a-450a-ad27-58dd3ccc9ceb.jpg"
+                },
+                {
+                    "food_item_name": "Salad cá ngừ",
+                    "food_item_desc": null,
+                    "food_item_price": "46,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/81b14503-1d27-4fdc-9846-3c9ee08be8c8.jpg"
+                },
+                {
+                    "food_item_name": "Salad bò",
+                    "food_item_desc": null,
+                    "food_item_price": "48,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/95f16130-92d4-481d-a513-85e8e0ee2fc3.jpg"
+                },
+                {
+                    "food_item_name": "Salad trứng",
+                    "food_item_desc": null,
+                    "food_item_price": "38,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/fbf19080-199a-4eca-922e-f12f2799e723.jpg"
+                },
+                {
+                    "food_item_name": "Khoai tây chiên",
+                    "food_item_desc": null,
+                    "food_item_price": "22,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/a9985734-dcc2-4fbe-bcb6-13a7579ab500.jpg"
+                },
+                {
+                    "food_item_name": "Combo 3 món chiên",
+                    "food_item_desc": "Gồm có cá viên, đậu hũ cá, chả cá sò điệp Không bao gồm khoai tây",
+                    "food_item_price": "59,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/9462b9be-9035-4352-9a09-e8c89e4607ed.jpg"
+                },
+                {
+                    "food_item_name": "Combo 4 món chiên",
+                    "food_item_desc": "Gồm có cá viên, đậu hũ cá, chả cá sò điệp, khoai tây",
+                    "food_item_price": "75,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/83393fce-a740-412d-b252-deab4dc15c3f.jpg"
+                },
+                {
+                    "food_item_name": "Bò thêm",
+                    "food_item_desc": null,
+                    "food_item_price": "40,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/f98b0d9b-5cb4-4abc-a37e-9b476e3a5db7.jpg"
+                },
+                {
+                    "food_item_name": "Trứng",
+                    "food_item_desc": null,
+                    "food_item_price": "9,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/8b17980f-b608-484c-a59c-1114b7a0ff59.jpg"
+                },
+                {
+                    "food_item_name": "Canh",
+                    "food_item_desc": null,
+                    "food_item_price": "14,000đ",
+                    "food_image_link": "https://images.foody.vn/res/g16/150120/s120x120/cb476862-f204-47d5-92fc-d25edbf3e475.jpg"
+                }
+            ]
+        }
+    ]
+}
